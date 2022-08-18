@@ -1,0 +1,47 @@
+body {
+    background-color: #272822;
+    font-family: Consolas, 'Courier New', monospace;
+}
+
+#header {
+    text-align:center;
+}
+
+#name {
+    color: #f92672;
+    font-size: 110%;
+}
+
+#status {
+    color:#a6e22e;
+
+}
+
+.download_cv {
+    background-color: #f8f8f2;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 7px;
+}
+
+#title {
+    color:#a6e22e;
+    margin-top:5%;
+}
+
+
+.chouquette {
+    color:#e6db74; 
+}
+
+.text {
+    color:#66d9ef;
+}
+
+li {
+    margin-bottom: 1%;
+}
+
+a {
+    text-decoration: none;
+}
