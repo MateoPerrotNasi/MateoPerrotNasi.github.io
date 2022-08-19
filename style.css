@@ -5,6 +5,7 @@ body {
 
 a {
     color:#66d9ef;
+    text-decoration: none;
 }
 
 #header {
@@ -13,7 +14,6 @@ a {
 
 #name {
     color: #f92672;
-    font-size: 110%;
 }
 
 #status {
@@ -24,9 +24,18 @@ a {
 .download_cv {
     background-color: #f8f8f2;
     border-radius: 10px;
-    margin-bottom: 7%;
     padding: 7px;
-    text-decoration: none;
+}
+
+#first_title {
+    color:#a6e22e;
+    margin-top:6%; 
+}
+
+@media (max-width: 460) {
+    #first_title {
+        margin-top:20%; 
+    }
 }
 
 #title {
@@ -45,4 +54,8 @@ a {
 
 li {
     margin-bottom: 1%;
+}
+
+.icon_lien {
+    width: 1%;
 }
