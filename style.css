@@ -3,6 +3,10 @@ body {
     font-family: Consolas, 'Courier New', monospace;
 }
 
+a {
+    color:#66d9ef;
+}
+
 #header {
     text-align:center;
 }
@@ -22,6 +26,7 @@ body {
     border-radius: 10px;
     margin-bottom: 5%;
     padding: 7px;
+    text-decoration: none;
 }
 
 #title {
@@ -40,8 +45,4 @@ body {
 
 li {
     margin-bottom: 1%;
-}
-
-a {
-    text-decoration: none;
 }
