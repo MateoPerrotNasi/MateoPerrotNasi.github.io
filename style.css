@@ -27,11 +27,6 @@ a {
     padding: 7px;
 }
 
-#first_title {
-    color:#a6e22e;
-    margin-top:6%; 
-}
-
 @media (max-width: 460) {
     #first_title {
         margin-top:20%; 
@@ -57,5 +52,5 @@ li {
 }
 
 .icon_lien {
-    width: 1%;
+    width: 15px;
 }
